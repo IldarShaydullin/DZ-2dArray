@@ -1,0 +1,15 @@
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.csproj.AssemblyReference.cache
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.AssemblyInfoInputs.cache
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.AssemblyInfo.cs
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.csproj.CoreCompileInputs.cache
+/Users/ildar/massiv2D/bin/Debug/net6.0/massiv2D
+/Users/ildar/massiv2D/bin/Debug/net6.0/massiv2D.deps.json
+/Users/ildar/massiv2D/bin/Debug/net6.0/massiv2D.runtimeconfig.json
+/Users/ildar/massiv2D/bin/Debug/net6.0/massiv2D.dll
+/Users/ildar/massiv2D/bin/Debug/net6.0/massiv2D.pdb
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.dll
+/Users/ildar/massiv2D/obj/Debug/net6.0/refint/massiv2D.dll
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.pdb
+/Users/ildar/massiv2D/obj/Debug/net6.0/massiv2D.genruntimeconfig.cache
+/Users/ildar/massiv2D/obj/Debug/net6.0/ref/massiv2D.dll
